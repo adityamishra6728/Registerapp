@@ -1,0 +1,23 @@
+{
+    "name":"Food App",
+    "short_name":"foodapp",
+    "start_url":"/exp6.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE9D2",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/img.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        },
+
+        {
+            "src":"/instagram.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
